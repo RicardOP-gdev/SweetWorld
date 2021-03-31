@@ -7,7 +7,7 @@
   <h3 align="center">Sweet World</h3>
 
   <p align="center">
-  
+  Serius Game project
     <br />
     <a href="https://github.com/RicardOP-gdev/SweetWorld"><strong>Explore this repository »</strong></a>
     <br />

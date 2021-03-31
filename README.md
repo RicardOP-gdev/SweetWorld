@@ -7,19 +7,21 @@
   <h3 align="center">Sweet World</h3>
 
   <p align="center">
- project 
+  
     <br />
     <a href="https://github.com/RicardOP-gdev/SweetWorld"><strong>Explore this repository »</strong></a>
     <br />
     <br />
     <a href="https://github.com/RicardOP-gdev/SweetWorld/tree/main/Scripts">Scripts</a>
     ·
-    <a href="https://github.com/RicardOP-gdev/BattlePin/tree/main/Resources">Resources</a>
+    <a href="https://github.com/RicardOP-gdev/SweetWorld/tree/main/Resources">Resources</a>
   </p>
 </p>
 
 <!-- PRESENTATION -->
 ## Description
 
-Battle Pin is a simple accuracy game in which you must place several needles on the circle without touching any other bits inspirated in AA game. Battle Pin includes an extra mode local-multiplayer. This personal project was made it with Unity3D and C# code language to explore my capacity to make 2D game to Android devices. 
 
+Sweet World is a project with the purpose of creating a Serious Game for the Museo del Chocolate BCN in which through QR codes the user could unlock a minigame referring to the museum's sculptures. This project was created with Unity3D and C# and uses gyroscope and accelerometer technology to control player. 
+
+In this project I was Lead Programmer and Artist2D to make sprites for the UI and GUI, also create videos about museum information.

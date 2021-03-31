@@ -9,10 +9,10 @@
   <p align="center">
  project 
     <br />
-    <a href="https://github.com/RicardOP-gdev/BattlePin"><strong>Explore this repository »</strong></a>
+    <a href="https://github.com/RicardOP-gdev/SweetWorld"><strong>Explore this repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RicardOP-gdev/BattlePin/tree/main/Scripts">Scripts</a>
+    <a href="https://github.com/RicardOP-gdev/SweetWorld/tree/main/Scripts">Scripts</a>
     ·
     <a href="https://github.com/RicardOP-gdev/BattlePin/tree/main/Resources">Resources</a>
   </p>
